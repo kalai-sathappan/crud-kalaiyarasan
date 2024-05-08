@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/crud-kalaiyarasan/static/css/main.f855e6bc.css",
-    "main.js": "/crud-kalaiyarasan/static/js/main.d8b58958.js",
+    "main.js": "/crud-kalaiyarasan/static/js/main.786f1df7.js",
     "static/js/453.67bc29aa.chunk.js": "/crud-kalaiyarasan/static/js/453.67bc29aa.chunk.js",
     "index.html": "/crud-kalaiyarasan/index.html",
     "main.f855e6bc.css.map": "/crud-kalaiyarasan/static/css/main.f855e6bc.css.map",
-    "main.d8b58958.js.map": "/crud-kalaiyarasan/static/js/main.d8b58958.js.map",
+    "main.786f1df7.js.map": "/crud-kalaiyarasan/static/js/main.786f1df7.js.map",
     "453.67bc29aa.chunk.js.map": "/crud-kalaiyarasan/static/js/453.67bc29aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d8b58958.js"
+    "static/js/main.786f1df7.js"
   ]
 }
