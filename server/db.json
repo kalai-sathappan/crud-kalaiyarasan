@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "kalai",
+      "score": "10000"
+    },
+    {
+      "id": "2",
+      "name": "karthi",
+      "score": "200"
+    },
+    {
+      "id": "3",
+      "name": "ks",
+      "score": "4000"
+    },
+    {
+      "id": "4",
+      "name": "ma",
+      "score": "1000"
+    },
+    {
+      "id": "5",
+      "name": "zara",
+      "score": "2003"
+    }
+  ]
+}
